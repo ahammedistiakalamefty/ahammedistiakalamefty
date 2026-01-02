@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently a student.<br>I'm CSE student <br>I like play video game and traveling<br>I want be a professional wed developer<br>
+Hi! I’m Ahammed Istiak Alam Efty, a passionate CSE student with a strong interest in web development and modern technologies. I love turning ideas into clean, responsive, and user-friendly websites.
+
+🎮 When I’m not coding, you’ll find me playing video games or exploring new places through travel.
+🚀 My goal is to become a professional web developer and build impactful digital experiences.
+💡 I believe in continuous learning, problem-solving, and growing a little every day.
 
 
 ## 🌐 Socials:
